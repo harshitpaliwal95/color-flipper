@@ -1,2 +1,8 @@
 # color-flipper
-color-flipper using js 
+color-flipper using Javascript
+
+
+## Technology
+    html
+    css
+    javascript
